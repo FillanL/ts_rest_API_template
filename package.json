@@ -17,7 +17,8 @@
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.21",
     "pino": "^7.6.2",
-    "pino-pretty": "^7.3.0"
+    "pino-pretty": "^7.3.0",
+    "zod": "^3.11.6"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.0",
@@ -31,6 +32,7 @@
     "prettier": "^2.5.1",
     "prisma": "^3.7.0",
     "supertest": "^6.1.6",
+    "ts-jest": "^27.1.2",
     "ts-node": "^10.4.0",
     "ts-node-dev": "^1.1.8",
     "typescript": "^4.5.4"
